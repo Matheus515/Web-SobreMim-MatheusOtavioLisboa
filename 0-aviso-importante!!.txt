@@ -1,0 +1,5 @@
+No final do meu site sobre mim(1) tem um link que deve redirecionar para o outro site(2) com fotos do meu gato.
+No entanto, devido ao url do outro site(2) variar de acordo com onde o arquivo foi salvo, e no código ser um link fixo, ele normalmente não funcionará.
+O link que está no código é referente a caso o arquivo fosse extraido na área de trabalho.
+Mas independentimente de onde foi salvo.. vcs podem abrir o site (2) com as fotos do meu gato copiar o link e substituir no lugar do link original do código.
+Assim verão o resultado como o planejado, com o link que joga do site 1 para o site 2 funcionando, o que aconteceria perfeitamente caso fosse um link com url fixo.
